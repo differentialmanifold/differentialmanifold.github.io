@@ -5,6 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
+<img style="margin-top: auto;float: right;display: inline;" src="{{ BASE_PATH }}images/butterfly.jpg" title="butterfly" alt="photo of butterfly" width="240px" />
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
