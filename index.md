@@ -5,7 +5,7 @@ tag: Home Page
 ---
 {% include JB/setup %}
 
-<img style="margin-top: auto;float: right;display: inline;" src="{{ BASE_PATH }}images/butterfly.jpg" title="butterfly" alt="photo of butterfly" width="240px" />
+<img style="margin-top: auto;float: right;display: inline;" src="{{ BASE_PATH }}images/Totoro.jpeg" title="Totoro" alt="photo of Totoro" width="240px" />
     
 ## About me
 
@@ -15,6 +15,7 @@ You're most likely to find me on [GitHub](https://github.com/differentialmanifol
 ## Demo
 
 [Brownian movement](http://jsfiddle.net/everybody76/8oj3f1eb/embedded/result/)
+
 unfinished...
 
 ## Sample Posts
