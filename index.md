@@ -14,11 +14,11 @@ You're most likely to find me on [GitHub](https://github.com/differentialmanifol
 
 ## Demo
 
-[a crawler from lagou] *http://blogmongo-differentialmanifold.herokuapp.com/)(a simple crawler from lagou, and show on heroku through nodejs with mongodb database*
+[a crawler from lagou](http://blogmongo-differentialmanifold.herokuapp.com/)  *a simple crawler from lagou, and show on heroku through nodejs with mongodb database*
 
-[a multi-blog system](http://blog-differentialmanifold.herokuapp.com/) *a simple multi-blog system built on express and mongodb,show on heroku*
+[a multi-blog system](http://blog-differentialmanifold.herokuapp.com/)  *a simple multi-blog system built on express and mongodb,show on heroku*
 
-[Brownian movement](http://jsfiddle.net/everybody76/8oj3f1eb/embedded/result/) *a interesting simulation of rigid body collision using D3*
+[Brownian movement](http://jsfiddle.net/everybody76/8oj3f1eb/embedded/result/)  *a interesting simulation of rigid body collision using D3*
 
 ## Sample Posts
 
