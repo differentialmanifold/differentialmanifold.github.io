@@ -2,7 +2,7 @@
 layout: post
 title: "R on Heroku"
 description: ""
-category:heroku 
+category: heroku 
 tags: [heroku,r]
 ---
 {% include JB/setup %}
