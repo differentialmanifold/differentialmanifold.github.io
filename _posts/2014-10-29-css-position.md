@@ -21,10 +21,10 @@ The background color is the same for content and padding.
 
 ## display: block/inline-block/inline/none
 
--block: This makes the element a block box. It won't let anything sit next to it on the page.It takes up the full width.
--inline-block: This make the element a block box, but will allow other elements to sit next to it on the same lines.
--inline: This make the element sit on the same line as another element, but without formatting it like a block. It only takes up as much width as it needs.
--none: This make the element and its content disappear from the page entirely.
+- block: This makes the element a block box. It won't let anything sit next to it on the page.It takes up the full width.
+- inline-block: This make the element a block box, but will allow other elements to sit next to it on the same lines.
+- inline: This make the element sit on the same line as another element, but without formatting it like a block. It only takes up as much width as it needs.
+- none: This make the element and its content disappear from the page entirely.
 
     <body>
 	    <div>1</div>
@@ -77,10 +77,10 @@ Try the code upside, and you will understand what float and clear mean.
 
 ## postion: static/absolute/relative/fixed
 
--static: static does nothing, it's the default value.
--absolute: When an element is set to `position:absolute`, it's then positioned in relation to the first parent element it has that doesn't have `postion:static`. If there's no such element, the element with `position:absolute`,gets positioned relative to <html>.
--relative: It tells the element to move relative to where it would have landed if it just had the default static positioning.
--fixed: Fixed positioning anchors an element to the brower window - you can think of it as gluing the element to the screen.
+- static: static does nothing, it's the default value.
+- absolute: When an element is set to `position:absolute`, it's then positioned in relation to the first parent element it has that doesn't have `postion:static`. If there's no such element, the element with `position:absolute`,gets positioned relative to <html>.
+- relative: It tells the element to move relative to where it would have landed if it just had the default static positioning.
+- fixed: Fixed positioning anchors an element to the brower window - you can think of it as gluing the element to the screen.
 
     <body>
 	    <div class="outer"><div class="inner"></div></div>
