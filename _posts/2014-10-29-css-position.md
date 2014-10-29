@@ -26,18 +26,18 @@ The background color is the same for content and padding.
 - inline: This make the element sit on the same line as another element, but without formatting it like a block. It only takes up as much width as it needs.
 - none: This make the element and its content disappear from the page entirely.
 
-    <body>
-	    <div>1</div>
-		<div>2</div>
-		<div>3</div>
-	</body>
-
-	div {
-        height:50px;
-		width:50px;
-		border:1px solid black;
-		display:inline-block;
-	}
+        <body>                      
+	        <div>1</div>
+	    	<div>2</div>
+	    	<div>3</div>
+	    </body>
+                                   
+	    div {
+            height:50px;
+	    	width:50px;
+	    	border:1px solid black;
+	    	display:inline-block;
+	    }
 
 You can change the display parameter to see the effect.
 
@@ -82,27 +82,27 @@ Try the code upside, and you will understand what float and clear mean.
 - relative: It tells the element to move relative to where it would have landed if it just had the default static positioning.
 - fixed: Fixed positioning anchors an element to the brower window - you can think of it as gluing the element to the screen.
 
-    <body>
-	    <div class="outer"><div class="inner"></div></div>
-	</body>
-
-	.outer {
-        height:200px;
-		width:200px;
-	    border:1px solid black;
-		margin:200px;
-		background-color:blue;
-        position:absolute;
-	}
-    .inner {
-        height:50px;
-		width:50px;
-		border:1px solid black;
-		background-color:red;
-        position:absolute;
-		top:100px;
-		left:100px;
-	}
+        <body>                                                
+	        <div class="outer"><div class="inner"></div></div>
+	    </body>
+                                                              
+	    .outer {
+            height:200px;
+	    	width:200px;
+	        border:1px solid black;
+	    	margin:200px;
+	    	background-color:blue;
+            position:absolute;
+	    }
+        .inner {
+            height:50px;
+	    	width:50px;
+	    	border:1px solid black;
+	    	background-color:red;
+            position:absolute;
+	    	top:100px;
+	    	left:100px;
+	    }
 
 You can change the outer's position to static to see the effection.
 
