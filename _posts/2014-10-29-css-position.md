@@ -112,6 +112,6 @@ max-width:none/length/%, when a img is inside a block, you can use `max-width:10
 
 list-style:none, delete the icon before the list.
 
-test-decoration:none, delete the underline of the link.
+text-decoration:none, delete the underline of the link.
 
 cursor:pointer, let the mouse behave like you can click.
